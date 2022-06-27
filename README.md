@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+![](https://komarev.com/ghpvc/?username=jsowers13&color=brightgreen)
 
 <!--
 **jsowers13/jsowers13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsowers13)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsowers13)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![MasterHead](https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg)](https://github.com/jsowers13)
