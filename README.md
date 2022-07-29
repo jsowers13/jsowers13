@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsowers13" alt="jsowers13" /></a> </p>
 
-- 🔭 I’m currently working on [Modern Education](https://github.com/jsowers13/modern-education)
+- 🔭 I’m currently working on [Herbie the Hero](https://github.com/jsowers13/herbie-the-hero)
 
-- 🌱 I’m currently learning **Python, Data Science**
+- 🌱 I’m currently learning **Python, Data Science, C#, .NET**
 
 - 👯 I’m looking to collaborate on [React](https://github.com/facebook/react)
 
