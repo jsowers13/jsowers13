@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Data Science, C#, .NET**
 
-- 👯 I’m looking to collaborate on [React](https://github.com/facebook/react)
+- 👯 I’m looking to collaborate on [React](https://github.com/facebook/react), **C#, .NET**
 
 - 💬 Ask me about **React**
 
